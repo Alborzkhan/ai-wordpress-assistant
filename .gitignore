@@ -1,0 +1,20 @@
+# فایل‌های محیطی (رمزها)
+.env
+sample_config.py
+*.env
+
+# فایل‌های موقت پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+
+# پوشه‌های ویرایشگر
+.vscode/
+.idea/
+*.sublime-*
+
+# فایل‌های سیستمی
+.DS_Store
+Thumbs.db
